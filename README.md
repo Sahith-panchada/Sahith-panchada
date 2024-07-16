@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning artificial intelligence and robotics 
 - 💞️ I’m looking to collaborate on any ai sector 
 - 📫 How to reach me india 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns:
+- ⚡ Fun fact: funny dirty mind 
 
 <!---
 Sahith-panchada/Sahith-panchada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
